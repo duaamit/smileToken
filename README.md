@@ -1,4 +1,4 @@
-# SolToken
+# smileToken
 
 # Deploy smile token on Solana Devnet
 This token was created using SPL token CLI: https://explorer.solana.com/address/smiSLExhszT3GioQwFE9MWjRR2qnhWa9uST2h9VoRWn?cluster=devnet
